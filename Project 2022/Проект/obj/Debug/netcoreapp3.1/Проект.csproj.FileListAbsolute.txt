@@ -1,0 +1,137 @@
+C:\Users\User\Desktop\Проект\Проект\bin\Debug\netcoreapp3.1\Проект.exe
+C:\Users\User\Desktop\Проект\Проект\bin\Debug\netcoreapp3.1\Проект.deps.json
+C:\Users\User\Desktop\Проект\Проект\bin\Debug\netcoreapp3.1\Проект.runtimeconfig.json
+C:\Users\User\Desktop\Проект\Проект\bin\Debug\netcoreapp3.1\Проект.runtimeconfig.dev.json
+C:\Users\User\Desktop\Проект\Проект\bin\Debug\netcoreapp3.1\Проект.dll
+C:\Users\User\Desktop\Проект\Проект\bin\Debug\netcoreapp3.1\Проект.pdb
+C:\Users\User\Desktop\Проект\Проект\obj\Debug\netcoreapp3.1\Проект.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Проект\Проект\obj\Debug\netcoreapp3.1\Проект.Employee.resources
+C:\Users\User\Desktop\Проект\Проект\obj\Debug\netcoreapp3.1\Проект.Login.resources
+C:\Users\User\Desktop\Проект\Проект\obj\Debug\netcoreapp3.1\Проект.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Проект\Проект\obj\Debug\netcoreapp3.1\Проект.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Проект\Проект\obj\Debug\netcoreapp3.1\Проект.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Проект\Проект\obj\Debug\netcoreapp3.1\Проект.AssemblyInfo.cs
+C:\Users\User\Desktop\Проект\Проект\obj\Debug\netcoreapp3.1\Проект.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Проект\Проект\obj\Debug\netcoreapp3.1\Проект.dll
+C:\Users\User\Desktop\Проект\Проект\obj\Debug\netcoreapp3.1\Проект.pdb
+C:\Users\User\Desktop\Проект\Проект\obj\Debug\netcoreapp3.1\Проект.genruntimeconfig.cache
+C:\Users\User\Desktop\Проект\Проект\obj\Debug\netcoreapp3.1\Проект.Main.resources
+C:\Users\User\Desktop\Проект\Проект\obj\Debug\netcoreapp3.1\Проект.EmpList.resources
+C:\Users\User\Desktop\Проект\Проект\obj\Debug\netcoreapp3.1\Проект.Properties.Resources.resources
+C:\Users\ВалентинАПенчев\Desktop\Проект\Проект\bin\Debug\netcoreapp3.1\Проект.exe
+C:\Users\ВалентинАПенчев\Desktop\Проект\Проект\bin\Debug\netcoreapp3.1\Проект.deps.json
+C:\Users\ВалентинАПенчев\Desktop\Проект\Проект\bin\Debug\netcoreapp3.1\Проект.runtimeconfig.json
+C:\Users\ВалентинАПенчев\Desktop\Проект\Проект\bin\Debug\netcoreapp3.1\Проект.runtimeconfig.dev.json
+C:\Users\ВалентинАПенчев\Desktop\Проект\Проект\bin\Debug\netcoreapp3.1\Проект.dll
+C:\Users\ВалентинАПенчев\Desktop\Проект\Проект\bin\Debug\netcoreapp3.1\Проект.pdb
+C:\Users\ВалентинАПенчев\Desktop\Проект\Проект\obj\Debug\netcoreapp3.1\Проект.csproj.AssemblyReference.cache
+C:\Users\ВалентинАПенчев\Desktop\Проект\Проект\obj\Debug\netcoreapp3.1\Проект.EmpList.resources
+C:\Users\ВалентинАПенчев\Desktop\Проект\Проект\obj\Debug\netcoreapp3.1\Проект.Employee.resources
+C:\Users\ВалентинАПенчев\Desktop\Проект\Проект\obj\Debug\netcoreapp3.1\Проект.Login.resources
+C:\Users\ВалентинАПенчев\Desktop\Проект\Проект\obj\Debug\netcoreapp3.1\Проект.Main.resources
+C:\Users\ВалентинАПенчев\Desktop\Проект\Проект\obj\Debug\netcoreapp3.1\Проект.Properties.Resources.resources
+C:\Users\ВалентинАПенчев\Desktop\Проект\Проект\obj\Debug\netcoreapp3.1\Проект.csproj.GenerateResource.cache
+C:\Users\ВалентинАПенчев\Desktop\Проект\Проект\obj\Debug\netcoreapp3.1\Проект.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ВалентинАПенчев\Desktop\Проект\Проект\obj\Debug\netcoreapp3.1\Проект.AssemblyInfoInputs.cache
+C:\Users\ВалентинАПенчев\Desktop\Проект\Проект\obj\Debug\netcoreapp3.1\Проект.AssemblyInfo.cs
+C:\Users\ВалентинАПенчев\Desktop\Проект\Проект\obj\Debug\netcoreapp3.1\Проект.csproj.CoreCompileInputs.cache
+C:\Users\ВалентинАПенчев\Desktop\Проект\Проект\obj\Debug\netcoreapp3.1\Проект.dll
+C:\Users\ВалентинАПенчев\Desktop\Проект\Проект\obj\Debug\netcoreapp3.1\Проект.pdb
+C:\Users\ВалентинАПенчев\Desktop\Проект\Проект\obj\Debug\netcoreapp3.1\Проект.genruntimeconfig.cache
+C:\Users\User\Desktop\New folder\Проект\Проект\obj\Debug\netcoreapp3.1\Проект.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\New folder\Проект\Проект\obj\Debug\netcoreapp3.1\Проект.Airlines.resources
+C:\Users\User\Desktop\New folder\Проект\Проект\obj\Debug\netcoreapp3.1\Проект.Cafe.resources
+C:\Users\User\Desktop\New folder\Проект\Проект\obj\Debug\netcoreapp3.1\Проект.Login.resources
+C:\Users\User\Desktop\New folder\Проект\Проект\obj\Debug\netcoreapp3.1\Проект.Properties.Resources.resources
+C:\Users\User\Desktop\New folder\Проект\Проект\obj\Debug\netcoreapp3.1\Проект.csproj.GenerateResource.cache
+C:\Users\User\Desktop\New folder\Проект\Проект\obj\Debug\netcoreapp3.1\Проект.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\New folder\Проект\Проект\obj\Debug\netcoreapp3.1\Проект.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\New folder\Проект\Проект\obj\Debug\netcoreapp3.1\Проект.AssemblyInfo.cs
+C:\Users\User\Desktop\New folder\Проект\Проект\obj\Debug\netcoreapp3.1\Проект.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder\Проект\Проект\obj\Debug\netcoreapp3.1\Проект.dll
+C:\Users\User\Desktop\New folder\Проект\Проект\obj\Debug\netcoreapp3.1\Проект.pdb
+C:\Users\User\Desktop\New folder\Проект\Проект\bin\Debug\netcoreapp3.1\Проект.exe
+C:\Users\User\Desktop\New folder\Проект\Проект\bin\Debug\netcoreapp3.1\Проект.deps.json
+C:\Users\User\Desktop\New folder\Проект\Проект\bin\Debug\netcoreapp3.1\Проект.runtimeconfig.json
+C:\Users\User\Desktop\New folder\Проект\Проект\bin\Debug\netcoreapp3.1\Проект.runtimeconfig.dev.json
+C:\Users\User\Desktop\New folder\Проект\Проект\bin\Debug\netcoreapp3.1\Проект.dll
+C:\Users\User\Desktop\New folder\Проект\Проект\bin\Debug\netcoreapp3.1\Проект.pdb
+C:\Users\User\Desktop\New folder\Проект\Проект\obj\Debug\netcoreapp3.1\Проект.genruntimeconfig.cache
+C:\Users\ВалентинАПенчев\Desktop\Проект - с коментари\Проект\bin\Debug\netcoreapp3.1\Проект.exe
+C:\Users\ВалентинАПенчев\Desktop\Проект - с коментари\Проект\bin\Debug\netcoreapp3.1\Проект.deps.json
+C:\Users\ВалентинАПенчев\Desktop\Проект - с коментари\Проект\bin\Debug\netcoreapp3.1\Проект.runtimeconfig.json
+C:\Users\ВалентинАПенчев\Desktop\Проект - с коментари\Проект\bin\Debug\netcoreapp3.1\Проект.runtimeconfig.dev.json
+C:\Users\ВалентинАПенчев\Desktop\Проект - с коментари\Проект\bin\Debug\netcoreapp3.1\Проект.dll
+C:\Users\ВалентинАПенчев\Desktop\Проект - с коментари\Проект\bin\Debug\netcoreapp3.1\Проект.pdb
+C:\Users\ВалентинАПенчев\Desktop\Проект - с коментари\Проект\obj\Debug\netcoreapp3.1\Проект.csproj.AssemblyReference.cache
+C:\Users\ВалентинАПенчев\Desktop\Проект - с коментари\Проект\obj\Debug\netcoreapp3.1\Проект.Airlines.resources
+C:\Users\ВалентинАПенчев\Desktop\Проект - с коментари\Проект\obj\Debug\netcoreapp3.1\Проект.Cafe.resources
+C:\Users\ВалентинАПенчев\Desktop\Проект - с коментари\Проект\obj\Debug\netcoreapp3.1\Проект.Login.resources
+C:\Users\ВалентинАПенчев\Desktop\Проект - с коментари\Проект\obj\Debug\netcoreapp3.1\Проект.Properties.Resources.resources
+C:\Users\ВалентинАПенчев\Desktop\Проект - с коментари\Проект\obj\Debug\netcoreapp3.1\Проект.csproj.GenerateResource.cache
+C:\Users\ВалентинАПенчев\Desktop\Проект - с коментари\Проект\obj\Debug\netcoreapp3.1\Проект.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ВалентинАПенчев\Desktop\Проект - с коментари\Проект\obj\Debug\netcoreapp3.1\Проект.AssemblyInfoInputs.cache
+C:\Users\ВалентинАПенчев\Desktop\Проект - с коментари\Проект\obj\Debug\netcoreapp3.1\Проект.AssemblyInfo.cs
+C:\Users\ВалентинАПенчев\Desktop\Проект - с коментари\Проект\obj\Debug\netcoreapp3.1\Проект.csproj.CoreCompileInputs.cache
+C:\Users\ВалентинАПенчев\Desktop\Проект - с коментари\Проект\obj\Debug\netcoreapp3.1\Проект.dll
+C:\Users\ВалентинАПенчев\Desktop\Проект - с коментари\Проект\obj\Debug\netcoreapp3.1\Проект.pdb
+C:\Users\ВалентинАПенчев\Desktop\Проект - с коментари\Проект\obj\Debug\netcoreapp3.1\Проект.genruntimeconfig.cache
+C:\Users\ВалентинАПенчев\OneDrive - Министерство на образованието и науката\Desktop\Проект - с коментари\Проект\bin\Debug\netcoreapp3.1\Проект.exe
+C:\Users\ВалентинАПенчев\OneDrive - Министерство на образованието и науката\Desktop\Проект - с коментари\Проект\bin\Debug\netcoreapp3.1\Проект.deps.json
+C:\Users\ВалентинАПенчев\OneDrive - Министерство на образованието и науката\Desktop\Проект - с коментари\Проект\bin\Debug\netcoreapp3.1\Проект.runtimeconfig.json
+C:\Users\ВалентинАПенчев\OneDrive - Министерство на образованието и науката\Desktop\Проект - с коментари\Проект\bin\Debug\netcoreapp3.1\Проект.runtimeconfig.dev.json
+C:\Users\ВалентинАПенчев\OneDrive - Министерство на образованието и науката\Desktop\Проект - с коментари\Проект\bin\Debug\netcoreapp3.1\Проект.dll
+C:\Users\ВалентинАПенчев\OneDrive - Министерство на образованието и науката\Desktop\Проект - с коментари\Проект\bin\Debug\netcoreapp3.1\Проект.pdb
+C:\Users\ВалентинАПенчев\OneDrive - Министерство на образованието и науката\Desktop\Проект - с коментари\Проект\obj\Debug\netcoreapp3.1\Проект.csproj.AssemblyReference.cache
+C:\Users\ВалентинАПенчев\OneDrive - Министерство на образованието и науката\Desktop\Проект - с коментари\Проект\obj\Debug\netcoreapp3.1\Проект.Airlines.resources
+C:\Users\ВалентинАПенчев\OneDrive - Министерство на образованието и науката\Desktop\Проект - с коментари\Проект\obj\Debug\netcoreapp3.1\Проект.Cafe.resources
+C:\Users\ВалентинАПенчев\OneDrive - Министерство на образованието и науката\Desktop\Проект - с коментари\Проект\obj\Debug\netcoreapp3.1\Проект.Login.resources
+C:\Users\ВалентинАПенчев\OneDrive - Министерство на образованието и науката\Desktop\Проект - с коментари\Проект\obj\Debug\netcoreapp3.1\Проект.Properties.Resources.resources
+C:\Users\ВалентинАПенчев\OneDrive - Министерство на образованието и науката\Desktop\Проект - с коментари\Проект\obj\Debug\netcoreapp3.1\Проект.csproj.GenerateResource.cache
+C:\Users\ВалентинАПенчев\OneDrive - Министерство на образованието и науката\Desktop\Проект - с коментари\Проект\obj\Debug\netcoreapp3.1\Проект.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ВалентинАПенчев\OneDrive - Министерство на образованието и науката\Desktop\Проект - с коментари\Проект\obj\Debug\netcoreapp3.1\Проект.AssemblyInfoInputs.cache
+C:\Users\ВалентинАПенчев\OneDrive - Министерство на образованието и науката\Desktop\Проект - с коментари\Проект\obj\Debug\netcoreapp3.1\Проект.AssemblyInfo.cs
+C:\Users\ВалентинАПенчев\OneDrive - Министерство на образованието и науката\Desktop\Проект - с коментари\Проект\obj\Debug\netcoreapp3.1\Проект.csproj.CoreCompileInputs.cache
+C:\Users\ВалентинАПенчев\OneDrive - Министерство на образованието и науката\Desktop\Проект - с коментари\Проект\obj\Debug\netcoreapp3.1\Проект.dll
+C:\Users\ВалентинАПенчев\OneDrive - Министерство на образованието и науката\Desktop\Проект - с коментари\Проект\obj\Debug\netcoreapp3.1\Проект.pdb
+C:\Users\ВалентинАПенчев\OneDrive - Министерство на образованието и науката\Desktop\Проект - с коментари\Проект\obj\Debug\netcoreapp3.1\Проект.genruntimeconfig.cache
+C:\Users\ВалентинАПенчев\OneDrive - Министерство на образованието и науката\Desktop\Проект - с коментари\Проект\obj\Debug\netcoreapp3.1\Проект.CaffeVMcs.resources
+C:\Users\User\Documents\GitHub\---\Проект\bin\Debug\netcoreapp3.1\Проект.exe
+C:\Users\User\Documents\GitHub\---\Проект\bin\Debug\netcoreapp3.1\Проект.deps.json
+C:\Users\User\Documents\GitHub\---\Проект\bin\Debug\netcoreapp3.1\Проект.runtimeconfig.json
+C:\Users\User\Documents\GitHub\---\Проект\bin\Debug\netcoreapp3.1\Проект.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\---\Проект\bin\Debug\netcoreapp3.1\Проект.dll
+C:\Users\User\Documents\GitHub\---\Проект\bin\Debug\netcoreapp3.1\Проект.pdb
+C:\Users\User\Documents\GitHub\---\Проект\obj\Debug\netcoreapp3.1\Проект.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\---\Проект\obj\Debug\netcoreapp3.1\Проект.Airlines.resources
+C:\Users\User\Documents\GitHub\---\Проект\obj\Debug\netcoreapp3.1\Проект.Cafe.resources
+C:\Users\User\Documents\GitHub\---\Проект\obj\Debug\netcoreapp3.1\Проект.CaffeVMcs.resources
+C:\Users\User\Documents\GitHub\---\Проект\obj\Debug\netcoreapp3.1\Проект.Login.resources
+C:\Users\User\Documents\GitHub\---\Проект\obj\Debug\netcoreapp3.1\Проект.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\---\Проект\obj\Debug\netcoreapp3.1\Проект.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\---\Проект\obj\Debug\netcoreapp3.1\Проект.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\---\Проект\obj\Debug\netcoreapp3.1\Проект.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\---\Проект\obj\Debug\netcoreapp3.1\Проект.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\---\Проект\obj\Debug\netcoreapp3.1\Проект.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\---\Проект\obj\Debug\netcoreapp3.1\Проект.dll
+C:\Users\User\Documents\GitHub\---\Проект\obj\Debug\netcoreapp3.1\Проект.pdb
+C:\Users\User\Documents\GitHub\---\Проект\obj\Debug\netcoreapp3.1\Проект.genruntimeconfig.cache
+C:\Users\User\Desktop\----main\Проект\bin\Debug\netcoreapp3.1\Проект.exe
+C:\Users\User\Desktop\----main\Проект\bin\Debug\netcoreapp3.1\Проект.deps.json
+C:\Users\User\Desktop\----main\Проект\bin\Debug\netcoreapp3.1\Проект.runtimeconfig.json
+C:\Users\User\Desktop\----main\Проект\bin\Debug\netcoreapp3.1\Проект.runtimeconfig.dev.json
+C:\Users\User\Desktop\----main\Проект\bin\Debug\netcoreapp3.1\Проект.dll
+C:\Users\User\Desktop\----main\Проект\bin\Debug\netcoreapp3.1\Проект.pdb
+C:\Users\User\Desktop\----main\Проект\obj\Debug\netcoreapp3.1\Проект.Airlines.resources
+C:\Users\User\Desktop\----main\Проект\obj\Debug\netcoreapp3.1\Проект.Cafe.resources
+C:\Users\User\Desktop\----main\Проект\obj\Debug\netcoreapp3.1\Проект.CaffeVMcs.resources
+C:\Users\User\Desktop\----main\Проект\obj\Debug\netcoreapp3.1\Проект.Login.resources
+C:\Users\User\Desktop\----main\Проект\obj\Debug\netcoreapp3.1\Проект.Properties.Resources.resources
+C:\Users\User\Desktop\----main\Проект\obj\Debug\netcoreapp3.1\Проект.csproj.GenerateResource.cache
+C:\Users\User\Desktop\----main\Проект\obj\Debug\netcoreapp3.1\Проект.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\----main\Проект\obj\Debug\netcoreapp3.1\Проект.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\----main\Проект\obj\Debug\netcoreapp3.1\Проект.AssemblyInfo.cs
+C:\Users\User\Desktop\----main\Проект\obj\Debug\netcoreapp3.1\Проект.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\----main\Проект\obj\Debug\netcoreapp3.1\Проект.dll
+C:\Users\User\Desktop\----main\Проект\obj\Debug\netcoreapp3.1\Проект.pdb
+C:\Users\User\Desktop\----main\Проект\obj\Debug\netcoreapp3.1\Проект.genruntimeconfig.cache
